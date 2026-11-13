@@ -11,7 +11,7 @@
   <img align="center" alt="Js" height="30" width="40" src=""
 </div>
 
-### 🙋🏻‍♂️ Pra saber mais sobre mim 
+### 🙋🏻‍♂️ Para saber mais sobre mim 
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-rodrigues-ferreira-164b89101/)
 [![Blog](https://img.shields.io/badge/Credly-FF6B00.svg?style=for-the-badge&logo=Credly&logoColor=white)](https://www.credly.com/users/gabriel-rodrigues-ferreira)
